@@ -14,9 +14,9 @@ jobs:
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
-          path: profile/stats.svg
+          card: top-langs
+          options: username=${{ github.repository_owner }}&hide=C,Makefile,Html,Assembly&langs_count=8&theme=radical&locale=cn
+          path: profile/top-langs.svg
           token: ${{ secrets.TOKEN }}
 
       - name: Commit cards
