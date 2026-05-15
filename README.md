@@ -104,7 +104,7 @@
   <br/> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&layout=compact&theme=radical&locale=cn" />
   <br /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKMonkeyCat&hide=C,Makefile,Html,Assembly&langs_count=8&theme=radical&locale=cn" />
+  <img src="./profile/top-langs.svg2 />
   <br />
 </p>
 <hr>
